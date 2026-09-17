@@ -1,3 +1,4 @@
 *
 !.gitignore
-!base_lucas.ipynb
+!base_lucas.ipynb:q!
+!README.md
