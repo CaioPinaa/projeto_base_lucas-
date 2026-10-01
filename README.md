@@ -4,7 +4,7 @@ Projeto de lógica de programação em Python .
 
 ## Tecnologias 
 - Python 3.14
-- Jupter Notebook
+- Jupyter Notebook
 
 ## Como rodar 
 
